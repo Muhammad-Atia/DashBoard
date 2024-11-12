@@ -54,7 +54,10 @@ export default function Page() {
           alt="Screenshots of the dashboard project showing desktop version"
         />        
       </div>  
+      <div>
+      <p>Commit v1</p>  
         
+      </div>
     </main>
   );
 }
